@@ -69,4 +69,8 @@ describe "#translate" do
   # * write a test asserting that capitalized words are still capitalized (but with a different initial capital letter, of course)
   # * retain the punctuation from the original phrase
 
+  it "maintains capitalized words" do
+    
+  end
+
 end
